@@ -1,4 +1,4 @@
-# HangmanGame
+# Hangman Game
 
 - In this project I learned how to use 'while' loops and Functions. Awesome.
 
