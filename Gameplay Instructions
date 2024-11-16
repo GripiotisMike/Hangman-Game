@@ -1,0 +1,11 @@
+1. The game selects a random word from a pre-defined list.
+2. Guess one letter at a time.
+3. Each incorrect guess reduces your lives by 1.
+4. Win by guessing the word before you run out of lives!
+
+Example:
+Guess a letter: a
+_ a _ _ _ 
+Guess a letter: b
+Sorry, 'b' is not in the word.
+_ a _ _ _
